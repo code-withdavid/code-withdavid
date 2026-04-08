@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @code-withdavid
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DATA ANALYST
 - 💞️ I’m looking to collaborate on tech related stuffs
 - 📫 How to reach me E-mail : davidcoder24@gmail.com
 - ⚡ Fun fact: i'm very crazy in anime😁🙌
