@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @code-withdavid
+- 👋 Hi, I’m DAVID
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DATA ANALYST
 - 💞️ I’m looking to collaborate on tech related stuffs
